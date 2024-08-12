@@ -29,7 +29,7 @@ Ya que parece que no se usarán más este medio para dar las clases.
 En el caso de encontrarnos con texto o explicaciones podríamos copiarlo y crear un archivo .txt
 
 <div align="center">
-    <img src="/img/2_1.webp" alt="text" width=auto height=auto/>
+    <img src="/img/2-1.webp" alt="text" width=auto height=auto/>
 </div>
 
 ### 4- Finalizado el capítulo anterior, debemos clickar en la web o en la barra (mejor), y apretar SPACE, pasará al siguiente capítulo.

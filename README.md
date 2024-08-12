@@ -26,8 +26,13 @@ Ya que parece que no se usarán más este medio para dar las clases.
 <div align="center">
     <img src="/img/2.webp" alt="paste-console" width=auto height=auto/>
 </div>
+En el caso de encontrarnos con texto o explicaciones podríamos copiarlo y crear un archivo .txt
 
-### 4- Una vez que acabemos, debemos clickar en la web o en la barra (mejor), y apretar SPACE, pasará al siguiente capítulo.
+<div align="center">
+    <img src="/img/2_1.webp" alt="text" width=auto height=auto/>
+</div>
+
+### 4- Finalizado el capítulo anterior, debemos clickar en la web o en la barra (mejor), y apretar SPACE, pasará al siguiente capítulo.
 
 <div align="center">
     <img src="/img/3.webp" alt="next-chapter" width=auto height=auto/>

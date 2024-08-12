@@ -7,7 +7,7 @@
 # G.Classroom script
 
 He creado este script para poder descargar de una manera más cómoda los archivos de las clases.
-Ya que parece que no se usarán más este medio para dar las clases.
+Ya que parece que no usarán más este medio para dar los cursos/cápsulas en la academia.
 
 </div>
 
@@ -26,6 +26,7 @@ Ya que parece que no se usarán más este medio para dar las clases.
 <div align="center">
     <img src="/img/2.webp" alt="paste-console" width=auto height=auto/>
 </div>
+
 En el caso de encontrarnos con texto o explicaciones podríamos copiarlo y crear un archivo .txt
 
 <div align="center">

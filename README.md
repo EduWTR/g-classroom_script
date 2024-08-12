@@ -18,10 +18,20 @@ Ya que parece que no usarán más este medio para dar los cursos/cápsulas en la
 <div align="center">
     <img src="/img/1.webp" alt="copy-code" width=auto height=auto/>
 </div>
+ 
+### Abrir nuestra clase y entrar en la etiqueta TRABAJO EN CLASE
 
-### 2- Pegar en la consola , dar ENTER
+<div align="center">
+    <img src="/img/1-1.webp" alt="copy-code" width=auto height=auto/>
+</div>
 
-### 3- Retornará la data y los enlaces del primer capítulo, para poder copiar o descargar el material que nos interese.
+### 3- Abrir la consola del navegador:
+
+#### Cmd + Opción + J (en una Mac) _ Ctrl + Shift + J (en Windows) _ Ctrl + shift + `(en linux)
+
+### 5- Pegar script en la consola , dar ENTER
+
+### 6- Retornará la data y los enlaces del primer capítulo, para poder copiar o descargar el material que nos interese.
 
 <div align="center">
     <img src="/img/2.webp" alt="paste-console" width=auto height=auto/>
@@ -33,7 +43,7 @@ En el caso de encontrarnos con texto o explicaciones podríamos copiarlo y crear
     <img src="/img/2-1.webp" alt="text" width=auto height=auto/>
 </div>
 
-### 4- Finalizado el capítulo anterior, debemos clickar en la web o en la barra (mejor), y apretar SPACE, pasará al siguiente capítulo.
+### 7- Finalizado el capítulo anterior, debemos clickar en la web o en la barra (mejor), y apretar SPACE, pasará al siguiente capítulo.
 
 <div align="center">
     <img src="/img/3.webp" alt="next-chapter" width=auto height=auto/>

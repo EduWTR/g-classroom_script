@@ -4,7 +4,7 @@
 
   <img width="300px" src="/img/gc_logo.png" alt="Logo" width=auto/>
 
-# Google Classroom script
+# G.Classroom script
 
 He creado este script para poder descargar de una manera más cómoda los archivos de las clases.
 Ya que parece que no se usarán más este medio para dar las clases.
@@ -21,7 +21,7 @@ Ya que parece que no se usarán más este medio para dar las clases.
 
 ### 2- Pegar en la consola , dar ENTER
 
-### 3- Retornará data y los enlaces para poder descargar del primer capítulo. Para poder copiar el material que nos interese.
+### 3- Retornará la data y los enlaces del primer capítulo, para poder copiar o descargar el material que nos interese.
 
 <div align="center">
     <img src="/img/2.webp" alt="paste-console" width=auto height=auto/>

@@ -19,7 +19,7 @@ Ya que parece que no usarán más este medio para dar los cursos/cápsulas en la
     <img src="/img/1.webp" alt="copy-code" width=auto height=auto/>
 </div>
  
-### Abrir nuestra clase y entrar en la etiqueta TRABAJO EN CLASE
+### 2- Abrir nuestra clase y entrar en la etiqueta TRABAJO EN CLASE
 
 <div align="center">
     <img src="/img/1-1.webp" alt="copy-code" width=auto height=auto/>
@@ -27,7 +27,8 @@ Ya que parece que no usarán más este medio para dar los cursos/cápsulas en la
 
 ### 3- Abrir la consola del navegador:
 
-#### Cmd + Opción + J (en una Mac) _ Ctrl + Shift + J (en Windows) _ Ctrl + shift + `(en linux)
+> [!TIP]
+> Cmd + Opción + J (en una Mac) _ Ctrl + Shift + J (en Windows) _ Ctrl + shift + `(en linux)
 
 ### 5- Pegar script en la consola , dar ENTER
 
@@ -37,7 +38,8 @@ Ya que parece que no usarán más este medio para dar los cursos/cápsulas en la
     <img src="/img/2.webp" alt="paste-console" width=auto height=auto/>
 </div>
 
-En el caso de encontrarnos con texto o explicaciones podríamos copiarlo y crear un archivo .txt
+> [!TIP]
+> En el caso de encontrarnos con texto o explicaciones podríamos copiarlo y crear un archivo .txt
 
 <div align="center">
     <img src="/img/2-1.webp" alt="text" width=auto height=auto/>

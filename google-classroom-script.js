@@ -2,8 +2,8 @@ const table = document.querySelector(".FpfvHe");
 const chapter = table.querySelectorAll(".jHgkif");
 
 //---------------------------------------------------------- Style Colors---
-const titleStyle = "font-size: 2.5em;background:OliveDrab";
-const subTitleStyle = "font-size: 1.5em;background:SeaGreen";
+const chapterStyle = "font-size: 2.5em;background:OliveDrab";
+const topicStyle = "font-size: 1.5em;background:SeaGreen";
 //--------------------------------------------------------------------------
 let openModal = async (el) => {
   const elements = el.querySelector(".jWCzBe"); // elem clicable
@@ -13,17 +13,17 @@ let openModal = async (el) => {
 
 let readModal = async (el) => {
   await sleep(3000); // Esperar 3 segundos
-  const subTemaBody = el.querySelector(".UW3s6d");
-  if (subTemaBody) {
-    const titleSubTema = el.querySelector("span.YVvGBb.UzbjTd").textContent;
-    const content = subTemaBody.querySelector(".bqKF7d span").innerText;
-    const files = subTemaBody.querySelectorAll(".luto0c");
-    console.log("%c" + " # " + titleSubTema, subTitleStyle);
+  const topicBody = el.querySelector(".UW3s6d");
+  if (topicBody) {
+    const topicTitle = el.querySelector("span.YVvGBb.UzbjTd").textContent;
+    const content = topicBody.querySelector(".bqKF7d span").innerText;
+    const files = topicBody.querySelectorAll(".luto0c");
+    console.log("%c" + " # " + topicTitle, topicStyle);
     console.log(content);
     for (let file of files) {
       const titleFile = file.querySelector(".A6dC2c").textContent;
       const link = file.querySelector(".VkhHKd")?.href;
-      console.group("Archivos:");
+      console.group("Archivo:");
       console.log(" ---  " + titleFile);
       console.log(link);
       console.groupEnd();
@@ -40,11 +40,11 @@ function sleep(ms) {
 
 async function iterateItems() {
   for (let i = 0; i < chapter.length; i++) {
-    const subtemasLista = chapter[i].querySelector(".Xzp3fc");
+    const topicList = chapter[i].querySelector(".Xzp3fc");
     const title = chapter[i].querySelector("h2.PazDv").textContent;
-    const elementsNode = subtemasLista.querySelectorAll(".tfGBod");
+    const elementsNode = topicList.querySelectorAll(".tfGBod");
 
-    console.log("%c" + title, titleStyle);
+    console.log("%c" + title, chapterStyle);
 
     for (let el of elementsNode) {
       await openModal(el);
